@@ -17,7 +17,7 @@ disableKinds = ["taxonomy", "term"]
   links = [
     # { email = "mailto:hello@your_domain.com" },
     # { link = "How-to-use-WhatsApp-Groups-for-Events.pdf" },
-      { link = { href = "Photo-Social-Hosting-Guide-FINAL", text = "Photo Social Hosting Guide" } },
+      { link = { href = "Photo-Social-Hosting-Guide-FINAL.pdf", text = "Photo Social Hosting Guide" } },
       { link = { href = "How-to-use-WhatsApp-Groups-for-Events.pdf", text = "How to use WhatsApp Groups for events" } },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
