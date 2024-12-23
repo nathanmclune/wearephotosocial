@@ -15,10 +15,12 @@ disableKinds = ["taxonomy", "term"]
   # image = "img/author.jpg"  # path relative to static directory
 
   links = [
-    # { email = "mailto:hello@your_domain.com" },
-    # { link = "How-to-use-WhatsApp-Groups-for-Events.pdf" },
-      { link = { href = "Photo-Social-Hosting-Guide-FINAL.pdf", text = "Photo Social Hosting Guide" } },
-      { link = { href = "How-to-use-WhatsApp-Groups-for-Events.pdf", text = "How to use WhatsApp Groups for events" } },
+     { email = "mailto:wearephotosocial@gmail.com" },
+     { instagram = "https://www.instagram.com/wearephotosocial/" },
+     { link = { href = "https://calendar.google.com/calendar/embed?src=wearephotosocial%40gmail.com&ctz=Europe%2FLondon", text = "Events Calendar" } },
+     { link = { href = "Photo-Social-Hosting-Guide-FINAL.pdf", text = "Photo Social Hosting Guide" } },
+     { link = { href = "How-to-use-WhatsApp-Groups-for-Events.pdf", text = "How to use WhatsApp Groups for events" } },
+
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { bandcamp = "https://username.bandcamp.com" },
@@ -33,7 +35,6 @@ disableKinds = ["taxonomy", "term"]
     # { github = "https://github.com/username" },
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
-      { instagram = "https://www.instagram.com/wearephotosocial/" },
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://last.fm/user/username" },
